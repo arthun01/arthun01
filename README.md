@@ -12,7 +12,7 @@
 - 📍 / **Ilhéus - BA**
 - 💻 / **Estudante de Ciência da Computação**
 - 🕹️ / **Estudando Desenvolvimento de Jogos**
-- 🌐 / **Estudando Desenvolvimento Front-End**
+- 🌐 / **Estudando Desenvolvimento Web**
 - ✏️ / **Disposto a aprender mais**
 
 ### Estou aprendendo
