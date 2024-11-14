@@ -31,7 +31,7 @@
 ___
 
 <div align="center">
-    <a href="https://www.instagram.com/arthurr_rv/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/arthur-ramos-vieira-0b1345217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://ruhtra-dev.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+    <a href="https://www.instagram.com/arthurr_rv/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/arthur-ramos-vieira-0b1345217/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://ruhtra-dev.itch.io" target="blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
