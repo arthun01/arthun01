@@ -18,14 +18,14 @@
 ### Estou aprendendo
 
 <div display = "inline-block">
-    <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-    <img src="https://camo.githubusercontent.com/111ddf98713904573106d6abfd51d56918e5c973601346ce99de5a71e08a0c70/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f342f34622f47616d654d616b65725f4c6f676f2e737667" width="200" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" widht="40" height="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" />
+    <img loading="lazy" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" /> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" /> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" width="40" heigh="40"/>
 </div>
 
 ___
