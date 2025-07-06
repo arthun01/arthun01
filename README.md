@@ -11,14 +11,13 @@
 
 - 📍 / **Ilhéus - BA**
 - 💻 / **Estudante de Ciência da Computação**
-- 🕹️ / **Estudando Desenvolvimento de Jogos**
 - 🌐 / **Estudando Desenvolvimento Web**
 - ✏️ / **Disposto a aprender mais**
 
 ### Estou aprendendo
 
 <div display = "inline-block">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" widht="40" height="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" height="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" />
     <img loading="lazy" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40"/> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" /> 
