@@ -24,7 +24,9 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" /> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" /> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" width="40" heigh="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg" width="40" height="40"/>
 </div>
 
 ___
