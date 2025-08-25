@@ -27,6 +27,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="40" heigth="40"/>
 </div>
 
 ___
