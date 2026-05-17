@@ -2,15 +2,17 @@
 
 ### Sobre mim
 
-- 📍 / **Ilhéus - BA**
-- 💻 / **Estudante de Ciência da Computação**
-- 🌐 / **Estudando Desenvolvimento Web**
-- ✏️ / **Disposto a aprender mais**
+- 📍  **Ilhéus - BA**
+- 💻  **Estudante de Ciência da Computação**
+- 🌐  **Estudando Desenvolvimento Web**
+- 📲  **Estudando Desenvolvimento Mobile**
+- ✏️  **Disposto a aprender mais**
 ___
 
 <h2>🧑‍💻​ Tecnologias que me interesso</h2>
 <div align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg" width="50">
@@ -22,6 +24,10 @@ ___
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" width="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50">
 </div>
 
 <h2>​📩​ Formas de Contato</h2>
